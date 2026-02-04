@@ -540,7 +540,7 @@ export ROCKSDB_PATH=./platform_events
 5. Submit PR with comprehensive description
 
 ### Code Standards
-- **Rust 2021 edition**
+- **Rust 2024 edition**
 - **No unsafe code** without justification
 - **Comprehensive tests** for all components
 - **Documentation** for public APIs
